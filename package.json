@@ -1,0 +1,14 @@
+{
+  "name": "pf-landing-6",
+  "version": "1.0.0",
+  "description": "Hotel Landing Page",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "B.Proczkowski",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.0.0"
+  }
+}
